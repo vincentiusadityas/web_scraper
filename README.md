@@ -1,4 +1,4 @@
-# Tokopedia Scraper
+# Web Scraper
 
 This project is an example of doing web scraping on Tokopedia website.
 
